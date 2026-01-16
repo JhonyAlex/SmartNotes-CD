@@ -1,0 +1,5 @@
+{
+  "name": "SmartNotes AI",
+  "description": "Un bloc de notas inteligente que organiza, extrae entidades y gestiona conocimientos automáticamente usando Gemini.",
+  "requestFramePermissions": []
+}
